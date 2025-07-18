@@ -1,0 +1,2 @@
+Hovered over element successfully
+Clicked element using JavaScript successfully

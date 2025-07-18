@@ -1,0 +1,31 @@
+{
+    "Account1":{
+        "ValidUser":{
+            "email":"invalide@gmail.com",
+        "pass":"invalidepwd345"
+        },
+        "InValidUser":{
+            "email":"invalide@gmail.com",
+        "pass":"invalidepwd353"
+        },
+        "InValidPwd":{
+            "email":"invalide@gmail.com",
+        "pass":"invalidepwd123"
+        }
+    },
+    "Account2":{
+        "ValidUser":{
+            "email":"invalide@gmail.com",
+        "pass":"invalidepwd123"
+        },
+        "InValidUser":{
+            "email":"invalide@gmail.com",
+        "pass":"invalidepwd234"
+        },
+        "InValidPwd":{
+            "email":"invalide@gmail.com",
+        "pass":"invalidepwd134"
+        }
+    }
+    
+}

@@ -1,0 +1,2 @@
+[32mINFO    [0m test_login:test_login.py:44 Invalid login attempted. Alert (if any) captured via JS.
+[32mINFO    [0m test_login:test_login.py:48 Login modal cancelled after alert

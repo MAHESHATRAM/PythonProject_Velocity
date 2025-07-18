@@ -1,0 +1,2 @@
+[32mINFO    [0m test_cart:test_cart.py:23 user login successfully
+[32mINFO    [0m test_cart:test_cart.py:28 Product 'Nexus 6' added to cart

@@ -1,0 +1,2 @@
+[32mINFO    [0m test_login:test_login.py:31 Login failed as expected with: abc123@gmail.com
+[32mINFO    [0m test_login:test_login.py:35 Login modal cancelled after invalid login

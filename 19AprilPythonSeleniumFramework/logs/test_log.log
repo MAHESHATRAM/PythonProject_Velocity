@@ -1,0 +1,161 @@
+2025-07-08 21:52:40,002 - test_cart - INFO - User logged in successfully
+2025-07-08 22:15:00,929 - test_cart - INFO - User logged in successfully
+2025-07-08 22:15:09,467 - test_login - INFO - Login successful with: pavanol
+2025-07-08 22:15:58,450 - test_login - INFO - Invalid login attempted. Alert (if any) captured via JS.
+2025-07-08 22:16:45,596 - test_cart - INFO - User logged in successfully
+2025-07-08 22:16:47,624 - test_cart - INFO - User logged in successfully
+
+2025-07-09 20:12:36,776 - test_login - INFO - Login successful with: pavanol
+2025-07-09 20:12:37,003 - test_login - INFO - User logged out after verification
+2025-07-09 20:12:38,232 - test_login - INFO - Login failed as expected with: Rohit@yahoo.com
+2025-07-09 20:12:38,275 - test_login - INFO - Login modal cancelled after invalid login
+2025-07-09 20:12:39,870 - test_login - INFO - Login failed as expected with: Rahul@yahoo.com
+2025-07-09 20:12:39,917 - test_login - INFO - Login modal cancelled after invalid login
+2025-07-09 20:12:41,960 - test_login - INFO - Login failed as expected with: laks@yahoo.com
+2025-07-09 20:12:42,009 - test_login - INFO - Login modal cancelled after invalid login
+2025-07-09 20:12:43,533 - test_login - INFO - Login failed as expected with: abc123@gmail.com
+2025-07-09 20:12:43,563 - test_login - INFO - Login modal cancelled after invalid login
+2025-07-09 20:12:44,557 - test_login - INFO - Invalid login attempted. Alert (if any) captured via JS.
+2025-07-09 20:12:44,582 - test_login - INFO - Login modal cancelled after alert
+2025-07-09 20:17:09,827 - test_cart - INFO - User logged in successfully
+2025-07-09 20:17:16,449 - test_cart - INFO - Product 'Nexus 6' added to cart
+2025-07-09 20:17:17,126 - test_cart - INFO - Checking if product is present in cart...
+2025-07-09 20:17:18,175 - test_cart - INFO - Found product in cart: Samsung galaxy s6
+2025-07-09 20:17:18,181 - test_cart - INFO - Found product in cart: Samsung galaxy s6
+2025-07-09 20:17:18,186 - test_cart - INFO - Found product in cart: Nexus 6
+2025-07-09 20:17:18,190 - test_cart - INFO - Found product in cart: Samsung galaxy s6
+2025-07-09 20:17:18,194 - test_cart - INFO - Found product in cart: Samsung galaxy s6
+2025-07-09 20:17:18,208 - test_cart - INFO - Product found in cart and verified
+2025-07-09 20:17:21,259 - test_cart - INFO - Product deleted from cart
+2025-07-09 20:17:23,160 - test_cart - INFO - User logged in successfully
+2025-07-09 20:17:29,346 - test_cart - INFO - Product 'Samsung galaxy s6' added to cart
+2025-07-09 20:17:30,045 - test_cart - INFO - Checking if product is present in cart...
+2025-07-09 20:17:31,600 - test_cart - INFO - Found product in cart: Samsung galaxy s6
+2025-07-09 20:17:31,605 - test_cart - INFO - Found product in cart: Samsung galaxy s6
+2025-07-09 20:17:31,610 - test_cart - INFO - Found product in cart: Samsung galaxy s6
+2025-07-09 20:17:31,614 - test_cart - INFO - Found product in cart: Samsung galaxy s6
+2025-07-09 20:17:31,618 - test_cart - INFO - Found product in cart: Samsung galaxy s6
+2025-07-09 20:17:31,633 - test_cart - INFO - Product found in cart and verified
+2025-07-09 20:17:34,691 - test_cart - INFO - Product deleted from cart
+2025-07-09 20:25:44,240 - test_broken_links - INFO - Total links found: 15
+2025-07-09 20:27:32,563 - test_broken_links - INFO - Total links found: 15
+2025-07-09 20:29:01,028 - test_broken_links - INFO - 🔗 Total links found: 15
+2025-07-09 20:29:01,433 - test_broken_links - INFO - ✅ Valid Link: https://www.demoblaze.com/index.html returned status code 200
+2025-07-09 20:29:02,012 - test_broken_links - INFO - ✅ Valid Link: https://www.demoblaze.com/index.html returned status code 200
+2025-07-09 20:29:02,289 - test_broken_links - INFO - ✅ Valid Link: https://www.demoblaze.com/# returned status code 200
+2025-07-09 20:29:02,680 - test_broken_links - INFO - ✅ Valid Link: https://www.demoblaze.com/# returned status code 200
+2025-07-09 20:29:03,077 - test_broken_links - INFO - ✅ Valid Link: https://www.demoblaze.com/cart.html returned status code 200
+2025-07-09 20:29:03,285 - test_broken_links - INFO - ✅ Valid Link: https://www.demoblaze.com/# returned status code 200
+2025-07-09 20:29:03,701 - test_broken_links - INFO - ✅ Valid Link: https://www.demoblaze.com/# returned status code 200
+2025-07-09 20:29:04,116 - test_broken_links - INFO - ✅ Valid Link: https://www.demoblaze.com/# returned status code 200
+2025-07-09 20:29:04,537 - test_broken_links - INFO - ✅ Valid Link: https://www.demoblaze.com/# returned status code 200
+2025-07-09 20:29:04,784 - test_broken_links - INFO - ✅ Valid Link: https://www.demoblaze.com/#carouselExampleIndicators returned status code 200
+2025-07-09 20:29:04,969 - test_broken_links - INFO - ✅ Valid Link: https://www.demoblaze.com/#carouselExampleIndicators returned status code 200
+2025-07-09 20:29:04,973 - test_broken_links - WARNING - ⚠️ Skipping empty href link.
+2025-07-09 20:29:05,164 - test_broken_links - INFO - ✅ Valid Link: https://www.demoblaze.com/# returned status code 200
+2025-07-09 20:29:05,345 - test_broken_links - INFO - ✅ Valid Link: https://www.demoblaze.com/# returned status code 200
+2025-07-09 20:29:05,539 - test_broken_links - INFO - ✅ Valid Link: https://www.demoblaze.com/# returned status code 200
+2025-07-09 20:32:06,350 - test_broken_links - INFO - 🔗 Total links found: 15
+2025-07-09 20:32:06,803 - test_broken_links - INFO - ✅ Valid Link: https://www.demoblaze.com/index.html returned status code 200
+2025-07-09 20:32:07,255 - test_broken_links - INFO - ✅ Valid Link: https://www.demoblaze.com/index.html returned status code 200
+2025-07-09 20:32:07,782 - test_broken_links - INFO - ✅ Valid Link: https://www.demoblaze.com/# returned status code 200
+2025-07-09 20:32:08,208 - test_broken_links - INFO - ✅ Valid Link: https://www.demoblaze.com/# returned status code 200
+2025-07-09 20:32:08,210 - test_broken_links - WARNING -  Skipping empty href link.
+2025-07-09 20:55:48,136 - test_broken_links - INFO - 🔗 Total links found: 15
+2025-07-09 20:55:48,543 - test_broken_links - INFO - ✅ Valid Link: https://www.demoblaze.com/index.html returned status code 200
+2025-07-09 20:55:48,951 - test_broken_links - INFO - ✅ Valid Link: https://www.demoblaze.com/index.html returned status code 200
+2025-07-09 20:55:49,437 - test_broken_links - INFO - ✅ Valid Link: https://www.demoblaze.com/# returned status code 200
+2025-07-09 20:55:49,844 - test_broken_links - INFO - ✅ Valid Link: https://www.demoblaze.com/# returned status code 200
+2025-07-09 20:55:50,263 - test_broken_links - INFO - ✅ Valid Link: https://www.demoblaze.com/cart.html returned status code 200
+2025-07-09 20:55:50,670 - test_broken_links - INFO - ✅ Valid Link: https://www.demoblaze.com/# returned status code 200
+2025-07-09 20:55:50,841 - test_broken_links - INFO - ✅ Valid Link: https://www.demoblaze.com/# returned status code 200
+2025-07-09 20:55:51,448 - test_broken_links - INFO - ✅ Valid Link: https://www.demoblaze.com/# returned status code 200
+2025-07-09 20:55:51,880 - test_broken_links - INFO - ✅ Valid Link: https://www.demoblaze.com/# returned status code 200
+2025-07-09 20:55:52,277 - test_broken_links - INFO - ✅ Valid Link: https://www.demoblaze.com/#carouselExampleIndicators returned status code 200
+2025-07-09 20:55:52,662 - test_broken_links - INFO - ✅ Valid Link: https://www.demoblaze.com/#carouselExampleIndicators returned status code 200
+2025-07-09 20:55:52,667 - test_broken_links - WARNING -  Skipping empty href link.
+2025-07-09 20:55:52,860 - test_broken_links - INFO - ✅ Valid Link: https://www.demoblaze.com/# returned status code 200
+2025-07-09 20:55:53,266 - test_broken_links - INFO - ✅ Valid Link: https://www.demoblaze.com/# returned status code 200
+2025-07-09 20:55:53,464 - test_broken_links - INFO - ✅ Valid Link: https://www.demoblaze.com/# returned status code 200
+2025-07-09 20:56:39,530 - test_login - INFO - Login successful with: pavanol
+2025-07-09 20:56:39,907 - test_login - INFO - User logged out after verification
+2025-07-09 20:56:41,118 - test_login - INFO - Login failed as expected with: Rohit@yahoo.com
+2025-07-09 20:56:41,161 - test_login - INFO - Login modal cancelled after invalid login
+2025-07-09 20:56:42,715 - test_login - INFO - Login failed as expected with: Rahul@yahoo.com
+2025-07-09 20:56:42,755 - test_login - INFO - Login modal cancelled after invalid login
+2025-07-09 20:56:44,818 - test_login - INFO - Login failed as expected with: laks@yahoo.com
+2025-07-09 20:56:44,869 - test_login - INFO - Login modal cancelled after invalid login
+2025-07-09 20:56:46,398 - test_login - INFO - Login failed as expected with: abc123@gmail.com
+2025-07-09 20:56:46,440 - test_login - INFO - Login modal cancelled after invalid login
+2025-07-09 20:56:47,462 - test_login - INFO - Invalid login attempted. Alert (if any) captured via JS.
+2025-07-09 20:56:47,488 - test_login - INFO - Login modal cancelled after alert
+2025-07-09 20:58:31,554 - test_login - INFO - Login successful with: pavanol
+2025-07-09 20:58:31,944 - test_login - INFO - User logged out after verification
+2025-07-09 20:58:33,160 - test_login - INFO - Login failed as expected with: Rohit@yahoo.com
+2025-07-09 20:58:33,199 - test_login - INFO - Login modal cancelled after invalid login
+2025-07-09 20:58:34,737 - test_login - INFO - Login failed as expected with: Rahul@yahoo.com
+2025-07-09 20:58:34,787 - test_login - INFO - Login modal cancelled after invalid login
+2025-07-09 20:58:36,812 - test_login - INFO - Login failed as expected with: laks@yahoo.com
+2025-07-09 20:58:36,860 - test_login - INFO - Login modal cancelled after invalid login
+2025-07-09 20:58:38,367 - test_login - INFO - Login failed as expected with: abc123@gmail.com
+2025-07-09 20:58:38,398 - test_login - INFO - Login modal cancelled after invalid login
+2025-07-09 20:58:39,421 - test_login - INFO - Invalid login attempted. Alert (if any) captured via JS.
+2025-07-09 20:58:39,450 - test_login - INFO - Login modal cancelled after alert
+2025-07-09 21:20:03,794 - test_cart - INFO - user login successfully
+2025-07-09 21:20:09,703 - test_cart - INFO - Product 'Nexus 6' added to cart
+2025-07-09 21:20:11,105 - test_cart - INFO - user login successfully
+2025-07-09 21:21:07,827 - test_cart - INFO - user login successfully
+2025-07-09 21:21:13,673 - test_cart - INFO - Product 'Nexus 6' added to cart
+2025-07-09 21:21:19,145 - test_cart - INFO - user login successfully
+2025-07-10 20:57:32,182 - test_broken_links - INFO - 🔗 Total links found: 15
+2025-07-10 20:57:32,658 - test_broken_links - INFO -  Valid Link: https://www.demoblaze.com/index.html returned status code 200
+2025-07-10 20:57:33,131 - test_broken_links - INFO -  Valid Link: https://www.demoblaze.com/index.html returned status code 200
+2025-07-10 20:57:33,641 - test_broken_links - INFO -  Valid Link: https://www.demoblaze.com/# returned status code 200
+2025-07-10 20:57:34,144 - test_broken_links - INFO -  Valid Link: https://www.demoblaze.com/# returned status code 200
+2025-07-10 20:57:34,537 - test_broken_links - INFO -  Valid Link: https://www.demoblaze.com/cart.html returned status code 200
+2025-07-10 20:57:34,730 - test_broken_links - INFO -  Valid Link: https://www.demoblaze.com/# returned status code 200
+2025-07-10 20:57:35,154 - test_broken_links - INFO -  Valid Link: https://www.demoblaze.com/# returned status code 200
+2025-07-10 20:57:35,554 - test_broken_links - INFO -  Valid Link: https://www.demoblaze.com/# returned status code 200
+2025-07-10 20:57:35,738 - test_broken_links - INFO -  Valid Link: https://www.demoblaze.com/# returned status code 200
+2025-07-10 20:57:35,927 - test_broken_links - INFO -  Valid Link: https://www.demoblaze.com/#carouselExampleIndicators returned status code 200
+2025-07-10 20:57:36,235 - test_broken_links - INFO -  Valid Link: https://www.demoblaze.com/#carouselExampleIndicators returned status code 200
+2025-07-10 20:57:36,240 - test_broken_links - WARNING -  Skipping empty href link.
+2025-07-10 20:57:36,678 - test_broken_links - INFO -  Valid Link: https://www.demoblaze.com/# returned status code 200
+2025-07-10 20:57:37,594 - test_broken_links - INFO -  Valid Link: https://www.demoblaze.com/# returned status code 200
+2025-07-10 20:57:38,039 - test_broken_links - INFO -  Valid Link: https://www.demoblaze.com/# returned status code 200
+2025-07-10 20:57:42,114 - test_cart - INFO - User logged in successfully
+2025-07-10 20:57:48,165 - test_cart - INFO - Product 'Nexus 6' added to cart
+2025-07-10 20:57:48,846 - test_cart - INFO - Checking if product is present in cart...
+2025-07-10 20:57:49,889 - test_cart - INFO - Found product in cart: Samsung galaxy s6
+2025-07-10 20:57:49,894 - test_cart - INFO - Found product in cart: Nexus 6
+2025-07-10 20:57:49,911 - test_cart - INFO - Product found in cart and verified
+2025-07-10 20:57:52,983 - test_cart - INFO - Product deleted from cart
+2025-07-10 20:57:54,494 - test_cart - INFO - User logged in successfully
+2025-07-10 20:58:00,345 - test_cart - INFO - Product 'Samsung galaxy s6' added to cart
+2025-07-10 20:58:01,025 - test_cart - INFO - Checking if product is present in cart...
+2025-07-10 20:58:02,075 - test_cart - INFO - Found product in cart: Samsung galaxy s6
+2025-07-10 20:58:02,082 - test_cart - INFO - Found product in cart: Samsung galaxy s6
+2025-07-10 20:58:02,103 - test_cart - INFO - Product found in cart and verified
+2025-07-10 20:58:05,169 - test_cart - INFO - Product deleted from cart
+2025-07-10 20:58:10,056 - test_contact_form - INFO - Contact popup opened
+2025-07-10 20:58:10,332 - test_contact_form - INFO - Contact form filled
+2025-07-10 20:58:10,390 - test_contact_form - INFO - Sent contact form
+2025-07-10 20:58:10,392 - test_contact_form - INFO - Alert: Thanks for the message!!
+2025-07-10 20:58:18,531 - test_login - INFO - Login successful with: pavanol
+2025-07-10 20:58:19,222 - test_login - INFO - User logged out after verification
+2025-07-10 20:58:20,503 - test_login - INFO - Login failed as expected with: Rohit@yahoo.com
+2025-07-10 20:58:20,552 - test_login - INFO - Login modal cancelled after invalid login
+2025-07-10 20:58:22,603 - test_login - INFO - Login failed as expected with: Rahul@yahoo.com
+2025-07-10 20:58:22,651 - test_login - INFO - Login modal cancelled after invalid login
+2025-07-10 20:58:24,180 - test_login - INFO - Login failed as expected with: laks@yahoo.com
+2025-07-10 20:58:24,231 - test_login - INFO - Login modal cancelled after invalid login
+2025-07-10 20:58:25,747 - test_login - INFO - Login failed as expected with: abc123@gmail.com
+2025-07-10 20:58:25,780 - test_login - INFO - Login modal cancelled after invalid login
+2025-07-10 20:58:26,831 - test_login - INFO - Invalid login attempted. Alert (if any) captured via JS.
+2025-07-10 20:58:26,891 - test_login - INFO - Login modal cancelled after alert
+2025-07-10 20:58:31,048 - test_product_details - INFO - Hovered over product: Nokia lumia 1520
+2025-07-10 20:58:32,136 - test_product_details - INFO - Clicked product using JS: Nokia lumia 1520
+2025-07-10 20:58:33,169 - test_product_details - INFO - Product details page loaded successfully for: Nokia lumia 1520
+2025-07-10 20:58:36,902 - test_valid_login - INFO - Attempted login with username: pavanol
+2025-07-10 20:58:39,029 - test_valid_login - INFO - Login successful
+2025-07-10 20:58:39,707 - test_valid_login - INFO - User logged out after successful login.

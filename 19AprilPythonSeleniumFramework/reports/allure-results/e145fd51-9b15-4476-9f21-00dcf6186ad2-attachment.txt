@@ -1,0 +1,16 @@
+[32mINFO    [0m test_broken_links:test_broken_links.py:13 🔗 Total links found: 15
+[32mINFO    [0m test_broken_links:test_broken_links.py:30  Valid Link: https://www.demoblaze.com/index.html returned status code 200
+[32mINFO    [0m test_broken_links:test_broken_links.py:30  Valid Link: https://www.demoblaze.com/index.html returned status code 200
+[32mINFO    [0m test_broken_links:test_broken_links.py:30  Valid Link: https://www.demoblaze.com/# returned status code 200
+[32mINFO    [0m test_broken_links:test_broken_links.py:30  Valid Link: https://www.demoblaze.com/# returned status code 200
+[32mINFO    [0m test_broken_links:test_broken_links.py:30  Valid Link: https://www.demoblaze.com/cart.html returned status code 200
+[32mINFO    [0m test_broken_links:test_broken_links.py:30  Valid Link: https://www.demoblaze.com/# returned status code 200
+[32mINFO    [0m test_broken_links:test_broken_links.py:30  Valid Link: https://www.demoblaze.com/# returned status code 200
+[32mINFO    [0m test_broken_links:test_broken_links.py:30  Valid Link: https://www.demoblaze.com/# returned status code 200
+[32mINFO    [0m test_broken_links:test_broken_links.py:30  Valid Link: https://www.demoblaze.com/# returned status code 200
+[32mINFO    [0m test_broken_links:test_broken_links.py:30  Valid Link: https://www.demoblaze.com/#carouselExampleIndicators returned status code 200
+[32mINFO    [0m test_broken_links:test_broken_links.py:30  Valid Link: https://www.demoblaze.com/#carouselExampleIndicators returned status code 200
+[33mWARNING [0m test_broken_links:test_broken_links.py:20  Skipping empty href link.
+[32mINFO    [0m test_broken_links:test_broken_links.py:30  Valid Link: https://www.demoblaze.com/# returned status code 200
+[32mINFO    [0m test_broken_links:test_broken_links.py:30  Valid Link: https://www.demoblaze.com/# returned status code 200
+[32mINFO    [0m test_broken_links:test_broken_links.py:30  Valid Link: https://www.demoblaze.com/# returned status code 200

@@ -1,0 +1,3 @@
+[32mINFO    [0m test_product_details:test_product_details.py:27 Hovered over product: Nokia lumia 1520
+[32mINFO    [0m test_product_details:test_product_details.py:31 Clicked product using JS: Nokia lumia 1520
+[32mINFO    [0m test_product_details:test_product_details.py:38 Product details page loaded successfully for: Nokia lumia 1520

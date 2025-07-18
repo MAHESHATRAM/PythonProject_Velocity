@@ -1,0 +1,1 @@
+[32mINFO    [0m test_cart:test_cart.py:23 user login successfully

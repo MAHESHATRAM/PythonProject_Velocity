@@ -1,0 +1,31 @@
+[Retry 1] Caught StaleElementReferenceException: Message: stale element reference: stale element not found
+  (Session info: chrome=138.0.7204.94); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+0   chromedriver                        0x00000001005bce6c cxxbridge1$str$ptr + 2722840
+1   chromedriver                        0x00000001005b4d74 cxxbridge1$str$ptr + 2689824
+2   chromedriver                        0x00000001001063ec cxxbridge1$string$len + 90648
+3   chromedriver                        0x0000000100116e20 cxxbridge1$string$len + 158796
+4   chromedriver                        0x0000000100115efc cxxbridge1$string$len + 154920
+5   chromedriver                        0x000000010010c9b0 cxxbridge1$string$len + 116700
+6   chromedriver                        0x000000010010b158 cxxbridge1$string$len + 110468
+7   chromedriver                        0x000000010010e3e4 cxxbridge1$string$len + 123408
+8   chromedriver                        0x000000010010e48c cxxbridge1$string$len + 123576
+9   chromedriver                        0x0000000100152fe8 cxxbridge1$string$len + 405012
+10  chromedriver                        0x0000000100151614 cxxbridge1$string$len + 398400
+11  chromedriver                        0x000000010014f428 cxxbridge1$string$len + 389716
+12  chromedriver                        0x000000010014e824 cxxbridge1$string$len + 386640
+13  chromedriver                        0x0000000100143358 cxxbridge1$string$len + 340356
+14  chromedriver                        0x0000000100142de4 cxxbridge1$string$len + 338960
+15  chromedriver                        0x000000010018e934 cxxbridge1$string$len + 649056
+16  chromedriver                        0x0000000100141834 cxxbridge1$string$len + 333408
+17  chromedriver                        0x000000010057ff88 cxxbridge1$str$ptr + 2473268
+18  chromedriver                        0x00000001005831f4 cxxbridge1$str$ptr + 2486176
+19  chromedriver                        0x00000001005619d0 cxxbridge1$str$ptr + 2348924
+20  chromedriver                        0x0000000100583ab0 cxxbridge1$str$ptr + 2488412
+21  chromedriver                        0x0000000100552a60 cxxbridge1$str$ptr + 2287628
+22  chromedriver                        0x00000001005a39a0 cxxbridge1$str$ptr + 2619212
+23  chromedriver                        0x00000001005a3b2c cxxbridge1$str$ptr + 2619608
+24  chromedriver                        0x00000001005b49b0 cxxbridge1$str$ptr + 2688860
+25  libsystem_pthread.dylib             0x000000019bb3c2e4 _pthread_start + 136
+26  libsystem_pthread.dylib             0x000000019bb370fc thread_start + 8
+

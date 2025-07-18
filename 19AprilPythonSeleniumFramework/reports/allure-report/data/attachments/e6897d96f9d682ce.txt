@@ -1,0 +1,3 @@
+[32mINFO    [0m test_valid_login:test_valid_login.py:21 Attempted login with username: pavanol
+[32mINFO    [0m test_valid_login:test_valid_login.py:24 Login successful
+[32mINFO    [0m test_valid_login:test_valid_login.py:29 User logged out after successful login.

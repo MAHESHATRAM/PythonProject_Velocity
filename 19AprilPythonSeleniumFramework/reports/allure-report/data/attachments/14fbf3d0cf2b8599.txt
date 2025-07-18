@@ -1,0 +1,1 @@
+[32mINFO    [0m test_product_details:test_product_details.py:24 Hovered on product: Nokia lumia 1520

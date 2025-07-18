@@ -1,0 +1,7 @@
+[32mINFO    [0m test_cart:test_cart.py:23 User logged in successfully
+[32mINFO    [0m test_cart:test_cart.py:27 Product 'Nexus 6' added to cart
+[32mINFO    [0m test_cart:test_cart.py:34 Checking if product is present in cart...
+[32mINFO    [0m test_cart:test_cart.py:39 Found product in cart: Samsung galaxy s6
+[32mINFO    [0m test_cart:test_cart.py:39 Found product in cart: Nexus 6
+[32mINFO    [0m test_cart:test_cart.py:45 Product found in cart and verified
+[32mINFO    [0m test_cart:test_cart.py:49 Product deleted from cart

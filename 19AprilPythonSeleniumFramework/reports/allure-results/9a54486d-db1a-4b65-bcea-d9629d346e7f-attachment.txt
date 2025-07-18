@@ -1,0 +1,4 @@
+[32mINFO    [0m test_contact_form:test_contact_form.py:17 Contact popup opened
+[32mINFO    [0m test_contact_form:test_contact_form.py:20 Contact form filled
+[32mINFO    [0m test_contact_form:test_contact_form.py:23 Sent contact form
+[32mINFO    [0m test_contact_form:test_contact_form.py:27 Alert: Thanks for the message!!

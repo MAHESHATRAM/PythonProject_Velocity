@@ -1,0 +1,2 @@
+[32mINFO    [0m test_login:test_login.py:22 Login successful with: pavanol
+[32mINFO    [0m test_login:test_login.py:27 User logged out after verification
